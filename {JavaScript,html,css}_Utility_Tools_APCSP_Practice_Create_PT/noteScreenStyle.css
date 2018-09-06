@@ -1,0 +1,66 @@
+body{
+    font-size: 17px;
+}
+    #main{
+        width: 320px;
+        height: 450px;    
+        background-color: whitesmoke;
+        padding: 5px 0;
+    }
+    header{
+        font-size: 20px;
+        text-align: center;
+    }
+        header a{
+            text-decoration: none;
+            color: #ffbd44;
+        }
+    #heading{
+        margin-top: -30px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    #heading input{
+        margin-left: 1px;
+        width: 167px;
+        height: 23px;
+    }
+    #heading button{
+        width: 30px;
+        height: 30px;
+        background-color: #b50dda;
+        color: white;
+    }
+    article{
+        position: relative;
+        width: 305px;
+        height: 330px;
+
+    }
+    textarea{
+        position: relative;
+        margin-left: 4px;
+        width: 305px;
+        height: 330px;
+        resize: none;
+        
+    }
+    article button{
+        color: white;
+        height: 25px;
+    }
+        article #deleteButton{
+            position: absolute;
+            bottom: -5px;
+            right: 45px;
+            width: 95px;
+            
+            background-color: #fb9700;
+        }
+        article #resetButton{
+            position: absolute;
+            bottom: -5px;
+            right: -9px;
+            width: 55px;
+            background-color: #f9270c;
+        }

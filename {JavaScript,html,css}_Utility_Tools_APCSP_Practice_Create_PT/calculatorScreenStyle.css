@@ -1,0 +1,68 @@
+body{
+
+}
+
+    #main{
+        width: 320px;
+        height: 450px;    
+        background-color: #f5efbe;
+        padding: 5px 0;
+    }
+        header{
+            font-size: 20px;
+            text-align: center;
+        }
+            header a{
+                text-decoration: none;
+                color: #ffbd44;
+            }
+        #first_Line{
+            margin-left: 13px;
+            margin-top: -10px;
+            
+            font-size: 14px;
+        }
+            #first_Line input{
+                width: 163px;
+                height: 30px;
+            }
+            #first_Line button{
+                background-color: #1abc9c;
+                color: white;
+            }
+            #first_Line #dotButton{
+                margin-left: 5px;
+                width: 36px;
+                height: 36px;
+            }   
+            #first_Line #clearButton{
+                margin-left: 15px;
+                width: 60px;
+                height: 36px;
+            }
+            #second_to_fourth_Line button{
+                width: 60px;
+                height: 60px;
+                margin-left: 13px;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                background-color: #1abc9c;
+                color: white;
+                font-size: 14px;
+            }
+            #bottom_Line button{
+                width: 60px;
+                height: 60px;
+                margin-left: 13px;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                background-color: #1abc9c;
+                color: white;
+                font-size: 14px;
+            }
+                #bottom_Line #enterButton{
+                    width: 138px;
+                }
+        
+        
+        

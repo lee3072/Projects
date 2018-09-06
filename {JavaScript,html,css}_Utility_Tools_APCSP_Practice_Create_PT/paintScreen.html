@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <title>Utility Tools</title>
+        <link rel="stylesheet" type="text/css" href="paintScreenStyle.css">
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
+    <script src="paint.js"></script>
+    
+    <div id="main">
+        <header>
+            <a href="#" id="starting" onclick="OnEvent(this);document.location=this.id+'Screen.html';return false;" >
+                    <h1>Utility Tools</h1>
+            </a>
+        </header>
+        <p>
+            <div id="canvas-holder">
+                <div id="buttons">
+                    <button id = "addPageButton" onclick="OnEvent(this)">+</button>
+                    <button id = "previousPageButton" onclick="OnEvent(this)"><</button>
+                    <button id = "currentPageButton">1</button>
+                    <button id="nextPageButton" onclick="OnEvent(this)">></button>
+                    <br>
+                </div>
+                <button id="resetButton" onclick="OnEvent(this)">reset</button>
+            </div>
+        </p>
+        <div id="bottomButtons">
+            <div id="colorButtons">
+                <button id="blackButton" onclick="OnEvent(this)">Black</button>
+                <button id="yellowButton" onclick="OnEvent(this)">Yellow</button>
+                <button id="greenButton" onclick="OnEvent(this)">Green</button>
+            </div>
+            <div id="functionButtons">
+                <button id="sprayButton" onclick="OnEvent(this)">Spray Paint</button>
+                <button id="deleteButton" onclick="OnEvent(this)">Delete Page</button>
+            </div>
+            
+        </div>
+    </div>
+    
+
+</body>
+</html>

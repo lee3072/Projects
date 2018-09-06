@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <title>Utility Tools</title>
+        <link rel="stylesheet" type="text/css" href="noteScreenStyle.css">
+</head>
+<body>
+    <script src="note.js"></script>
+    <div id="main">
+        <header>
+            <a href="#" id="starting" onclick="OnEvent(this);document.location=this.id+'Screen.html';return false;" >
+                    <h1>Utility Tools</h1>
+            </a>
+        </header>
+        <div id="heading">
+            <input type="text" id= "title" onchange="OnEvent(this)">
+            <button id = "addPageButton" onclick="OnEvent(this)">+</button>
+            <button id = "previousPageButton" onclick="OnEvent(this)"><</button>
+            <button id = "currentPageButton">1</button>
+            <button id="nextPageButton" onclick="OnEvent(this)">></button>
+            <br>
+        </div>
+        <article>
+            <textarea name="textArea" id="textArea" cols="30" rows="10" onchange="OnEvent(this)"></textarea>
+            <button id="deleteButton" onclick="OnEvent(this)">Delete Page</button>
+            <button id="resetButton" onclick="OnEvent(this)">Reset</button>
+        </article>
+        <script type="text/javascript">
+            document.getElementById('title').value =titleList[0];
+            document.getElementById('textArea').value =textList[0];
+        </script>
+    </div>
+    
+
+</body>
+</html>

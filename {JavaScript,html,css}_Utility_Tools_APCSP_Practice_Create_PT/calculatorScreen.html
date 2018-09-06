@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Utility Tools</title>
+    <link rel="stylesheet" type="text/css" href="calculatorScreenStyle.css">
+</head>
+<body>
+    <script src="calculator.js"></script>
+    <div id="main">
+        <header>
+            <a href="#" id="starting" onclick="document.location=this.id+'Screen.html';return false;" >
+                    <h1>Utility Tools</h1>
+            </a>
+        </header>
+        <div id="first_Line" >
+            <input type="text" name="display" id="display">
+            <script type="text/javascript">Reload()</script>
+            <button id="dotButton" onclick="OnEvent(this)">.</button>
+            <button id="clearButton" onclick="OnEvent(this)">clear</button>
+            <br>
+        </div>
+        <div id="second_to_fourth_Line">
+            <div>
+                <button id="number1Button" onclick="OnEvent(this)">1</button>
+                <button id="number2Button" onclick="OnEvent(this)"> 2</button>
+                <button id="number3Button" onclick="OnEvent(this)">3</button>
+                <button id="addButton" onclick="OnEvent(this)">+</button>
+                <br>
+            </div>
+            <div>
+                <button id="number4Button" onclick="OnEvent(this)">4</button>
+                <button id="number5Button" onclick="OnEvent(this)">5</button>
+                <button id="number6Button" onclick="OnEvent(this)">6</button>
+                <button id="subtractButton" onclick="OnEvent(this)">-</button>
+                <br>
+            </div>
+            <div>
+                <button id="number7Button" onclick="OnEvent(this)">7</button>
+                <button id="number8Button" onclick="OnEvent(this)">8</button>
+                <button id="number9Button" onclick="OnEvent(this)">9</button>
+                <button id="multiplyButton" value="*" onclick="OnEvent(this)">x</button>
+                <br>
+            </div>
+        </div>
+        <div id ="bottom_Line">
+            <button id="number0Button" onclick="OnEvent(this)">0</button>
+            <button id="enterButton" onclick="OnEvent(this)">enter</button>
+            <button id="divisionButton" onclick="OnEvent(this)">/</button>
+        </div>
+
+
+    </div>    
+</body>
+</html>
