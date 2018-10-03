@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Organize Client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Organize_Client_jar</output-path>
+    <root id="archive" name="Organize Client.jar">
+      <element id="module-output" name="Organize Client" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>

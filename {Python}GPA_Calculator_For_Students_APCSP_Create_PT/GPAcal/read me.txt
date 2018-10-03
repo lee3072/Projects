@@ -1,8 +1,0 @@
-please extract your file on c:\
-install python through python-3.6.1-amd64 (just basic setting)
-run the program through code for project
-
-
-Caution!!!:
-"do not remove any of the files inside!!"
-"only make a short cut for the code for project do not move this file"
