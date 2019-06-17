@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Projects](#Projects)
+1. [Individual Projects](#Individual-Projects)
 1. [Certificates](#Certificates)
 1. [Additional Projects](#Additional-Projects)
 
@@ -12,7 +12,7 @@
 ### Description
 this is repository for storing my individual projects/ certificates since high school period
 
-## Projects
+## Individual-Projects
 ### Description
 Any Individual Projects that does not have individual repository
 * <a href=https://github.com/lee3072/Projects/tree/master/Python/GPA%20Calculator%20For%20Students%20%23High%20School%20%23APCSP%20Create%20PT> GPA Calculator For Students [Python] (High School, APCSP Create PT) </a>
