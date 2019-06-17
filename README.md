@@ -6,7 +6,7 @@
 
 ## Overview
 ### Description
-this is repository for storing my individual projects since high school period
+this is repository for storing my individual projects/ certificates since high school period
 
 ## Additional-Projects
 ### Description
