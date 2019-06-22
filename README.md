@@ -24,7 +24,7 @@ Any Individual Projects that does not have individual repository
 ### Description
 Any Computer Science Certificates earned from valid sources
 * <a href=https://github.com/lee3072/Projects/blob/master/Certificate_1/Edx%20Class/Microsoft%20DAT208x%20Certificate%20_%20edX.pdf> Microsoft Data208x: Introduction to Python for Data Science (edX) </a>
-* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_2/CodePath/iOSSpring2019_138.pdf> CodePath iOS Development </a>
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_2/CodePath/iOSSpring2019_wsigUni138.pdf> CodePath iOS Development </a>
 
 ## Additional-Projects
 ### Description
