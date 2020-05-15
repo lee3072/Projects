@@ -2,6 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
+1. [Coursework](#Coursework)
 1. [Individual Projects](#Individual-Projects)
 1. [Certificates](#Certificates)
 1. [Additional Projects](#Additional-Projects)
@@ -11,6 +12,18 @@
 ## Overview
 ### Description
 this is repository for storing my individual projects/ certificates since high school period
+
+## Coursework
+### Description
+recent and field related courseworks in university
+| Class Name                             | Semester & Year | Grade |
+|----------------------------------------|-----------------|:-----:|
+|	Epics: Service-Learning Design Program | 2019 Spring     | A+    |
+|	CS490: iOS Development Course 				 | 2019 Spring		 | A+    |
+|	CS250: Computer Architecture					 | 2019 Fall		   | A-    |
+|	CS251: Data Structures and Algorithms	 | 2019 Fall  		 | A     |
+|	CS252: Systems Programming					   | 2020 Spring	   | A+    |
+
 
 ## Individual-Projects
 ### Description
