@@ -36,5 +36,5 @@ Group or non-individual projects that I participated will be linked below
 * <a href="https://play.google.com/store/apps/details?id=cds.epics.kidstimerproject"> Kid's Timer </a> [Team Leader/ Developer]
   - iOS (back-end)/ android (front-end) project for Epics Project 
 
-* <a href="https://play.google.com/store/apps/details?id=com.developer.iseungheon.unitconverter"> Unit Converter </a> [Individual Development]
+* <a href="https://play.google.com/store/apps/details?id=com.developer.iseungheon.unitconverter"> [DEPRECATED] Unit Converter </a> [Individual Development]
   - android project for scientific unit converter (android development practice)
