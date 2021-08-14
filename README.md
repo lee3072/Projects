@@ -11,11 +11,19 @@
 
 ## Overview
 ### Description
-this is repository for storing my individual projects/ certificates since high school period
+this is repository for:
+- storing my individual projects during Purdue CS Bachelor's Degree Program
+- storing links to contributed projects
+- storing my major related certificates
 
 ## Coursework
 ### Description
 recent and field related courseworks in university
+
+| Overall GPA | CS GPA |
+|:-----------:|:------:|
+| 3.52        | 3.7    |
+
 | Class Name                             | Semester & Year | Grade |
 |----------------------------------------|-----------------|:-----:|
 |	Epics: Service-Learning Design Program | 2019 Spring     | A+    |
@@ -29,13 +37,28 @@ recent and field related courseworks in university
 |	CS408: Software Testing   					   | 2021 Spring	   | A-    |
 
 
-## Individual-Projects
+## Course-Projects
 ### Description
-Any Individual Projects that does not have individual repository
-* <a href=https://github.com/lee3072/Projects/tree/master/Python/GPA%20Calculator%20For%20Students%20%23High%20School%20%23APCSP%20Create%20PT> GPA Calculator For Students [Python] (High School, APCSP Create PT) </a>
-* <a href=https://github.com/lee3072/Projects/tree/master/Java/Turn%20Based%20Party%20Game%20For%208Players%20%23High%20School%20%23APCSA%20Final%20Projects> Turn Based Party Game For 8Players [Java] (High School, APCSA Final Projects) </a>
-* <a href=https://github.com/lee3072/Projects/tree/master/JavaScript%2C%20Html%2C%20Css/Utility%20Tools%20%23Converted%20Version%20%23APCSP%20Practice%20Create%20PT> Utility Tools [JavaScript, Html, Css] (Converted Version, APCSP Practice Create PT) </a>
-* <a href=https://github.com/lee3072/Projects/tree/master/Extra%20Project/APCSP%20Explore%20PT%20%23High%20School> Extra Project (High School, APCSP Explore PT) </a>
+Any Projects that are related to major course work
+* <a href=https://github.com/lee3072/Custom-Shell-Project> Custom-Shell-Project (Purdue Univeristy, CS 252: Systems Programming) </a>
+  - Custom Terminal Shell like bash
+  - Language Used: [Lex, Yacc, C]
+* <a href=https://github.com/lee3072/Concurrent-Http-Server> Concurrent-Http-Server (Purdue Univeristy, CS 252: Systems Programming) </a>
+  - Concurrent (Multiprocessing/Multithreading) C++ Server response to HTTP/HTTPS protocol
+  - Language Used: [C++, Html, shell]
+  - Major Implementation:
+    - webpage visualization
+    - local directory browsing & file browsing
+    - local environment info access
+    - event triggering based on user input 
+* <a href="https://github.com/eventscan/eventscan"> Event Scan (Purdue Univeristy, CS490: iOS Developement Course) </a>
+  -	Use the Captured Image and OCR library to Scan information, and create event on calendar base on it.
+  -	Position: [Designer, Front-End/ Back-End Developer]
+* <a href="https://play.google.com/store/apps/details?id=cds.epics.kidstimerproject"> Kid’s Timer (Purdue Univeristy, Epics: Service-Learning Design Program) </a>
+  - Local Community Service
+  -	Visually describe the running time, for children who cannot understand the mathematical symbols.
+  -	Position: [Team Leader/ Developer]
+  -	Developed through IOS platform due to the project partner’s confusion about the owned device, then transferred to the android platform.
 
 ## Certificates
 ### Description
@@ -45,13 +68,6 @@ Any Computer Science Certificates earned from valid sources
 
 ## Additional-Projects
 ### Description
-Group or non-individual projects that I participated will be linked below
-* <a href="https://github.com/eventscan/eventscan"> Event Scan </a> [Designer, Front-End/ Back-End Developer]
-  - iOS application development with 4 people team
-
-
-* <a href="https://play.google.com/store/apps/details?id=cds.epics.kidstimerproject"> Kid's Timer </a> [Team Leader/ Developer]
-  - iOS (back-end)/ android (front-end) project for Epics Project 
-
-* <a href="https://play.google.com/store/apps/details?id=com.developer.iseungheon.unitconverter"> [DEPRECATED] Unit Converter </a> [Individual Development]
-  - android project for scientific unit converter (android development practice)
+Non Major Individual Projects for practice
+* <a href="https://play.google.com/store/apps/details?id=com.developer.iseungheon.unitconverter"> [DEPRECATED] Unit Converter </a>
+  - android project for scientific unit converter
