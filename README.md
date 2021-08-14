@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Coursework](#Coursework)
-1. [Individual Projects](#Individual-Projects)
+1. [Course Projects](#Course-Projects)
 1. [Certificates](#Certificates)
 1. [Additional Projects](#Additional-Projects)
 
