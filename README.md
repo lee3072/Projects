@@ -23,6 +23,10 @@ recent and field related courseworks in university
 |	CS250: Computer Architecture					 | 2019 Fall		   | A-    |
 |	CS251: Data Structures and Algorithms	 | 2019 Fall  		 | A     |
 |	CS252: Systems Programming					   | 2020 Spring	   | A+    |
+|	CS307: Software Engineering					   | 2020 Fall  	   | A     |
+|	CS390: Neural Image Processing			   | 2020 Fall  	   | A+    |
+|	CS390: Advance Neural Projects			   | 2021 Spring	   | A     |
+|	CS408: Software Testing   					   | 2021 Spring	   | A-    |
 
 
 ## Individual-Projects
