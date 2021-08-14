@@ -1,4 +1,0 @@
-userName='53201748'
-passWord='Boblee2000'
-AP=3
-HONOR=0
