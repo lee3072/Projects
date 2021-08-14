@@ -66,8 +66,13 @@ Any Computer Science Certificates earned from valid sources
 * <a href=https://github.com/lee3072/Projects/blob/master/Certificate_1/Edx%20Class/Microsoft%20DAT208x%20Certificate%20_%20edX.pdf> Microsoft Data208x: Introduction to Python for Data Science (edX) </a>
 * <a href=https://github.com/lee3072/Projects/blob/master/Certificate_2/CodePath/iOSSpring2019_wsigUni138.pdf> CodePath iOS Development </a>
 
-## Additional-Projects
+## Additional-Projects-Events
 ### Description
-Non Major Individual Projects for practice
+Non Major Individual Projects and Events for practice
+* <a href="https://devpost.com/software/class_manager"> Hello World - 24 Hour Freshman Only Hackathon</a>
+  - First Year Participant, Second Year Mentor
+* <a href="https://devpost.com/software/projects-2e8buc">	Boiler Make VI - Purdue Hackathon </a>
+  - Second Year Participant
 * <a href="https://play.google.com/store/apps/details?id=com.developer.iseungheon.unitconverter"> [DEPRECATED] Unit Converter </a>
   - android project for scientific unit converter
+
