@@ -65,6 +65,8 @@ Any Projects that are related to major course work
 Any Computer Science Certificates earned from valid sources
 * <a href=https://github.com/lee3072/Projects/blob/master/Certificate_1/Edx%20Class/Microsoft%20DAT208x%20Certificate%20_%20edX.pdf> Microsoft Data208x: Introduction to Python for Data Science (edX) </a>
 * <a href=https://github.com/lee3072/Projects/blob/master/Certificate_2/CodePath/iOSSpring2019_wsigUni138.pdf> CodePath iOS Development </a>
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_3/Edx%20Class/IBM%20CAD220EN%20Certificate%20%7C%20edX.pdf> IBM CAD220EN: Developing Cloud Applications with Node.js and React (edX) </a>
+* <a href=https://courses.edx.org/certificates/f64e089f90ff4ed59ad70531b66b77bc> IBM CAD220EN: Official Link </a>
 
 ## Additional-Projects-Events
 ### Description
