@@ -4,8 +4,9 @@
 1. [Overview](#Overview)
 1. [Coursework](#Coursework)
 1. [Course Projects](#Course-Projects)
+1. [Side Projects](#Side-Projects)
 1. [Certificates](#Certificates)
-1. [Additional Projects](#Additional-Projects)
+1. [Additional Projects](#Additional-Projects-Events)
 
 
 
@@ -22,7 +23,7 @@ recent and field related courseworks in university
 
 | Overall GPA | CS GPA |
 |:-----------:|:------:|
-| 3.52        | 3.7    |
+| 3.53        | 3.7    |
 
 | Class Name                             | Semester & Year | Grade |
 |----------------------------------------|-----------------|:-----:|
@@ -59,6 +60,13 @@ Any Projects that are related to major course work
   -	Visually describe the running time, for children who cannot understand the mathematical symbols.
   -	Position: [Team Leader/ Developer]
   -	Developed through IOS platform due to the project partner’s confusion about the owned device, then transferred to the android platform.
+
+## Side-Projects
+### Description
+Any Non Academical Projects
+* <a href=https://github.com/YoshiKitaguchi/3d_pose_estimation_demo> 2D to 3D Pose Esimation Network
+  -	Pytorch project to improve pre-existing 2D pose estimation network to predict 3D pose data.
+  - Team Member: [Seung Heon Lee, Yoshimasa Kitaguchi]
 
 ## Certificates
 ### Description
