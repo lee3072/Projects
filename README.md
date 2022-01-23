@@ -67,6 +67,10 @@ Any Non Academical Projects
 * <a href=https://github.com/YoshiKitaguchi/3d_pose_estimation_demo> 2D to 3D Pose Esimation Network
   -	Pytorch project to improve pre-existing 2D pose estimation network to predict 3D pose data.
   - Team Member: [Seung Heon Lee, Yoshimasa Kitaguchi]
+* <a href=https://github.com/lee3072/boilermake2022> BoilerEat
+  -	Hackathon Project for GPS based restaurant recommendation
+  - Team Member: [Seung Heon Lee, Jihyun Pyun, Junseok Oh, Yejoo Ahn]
+  
 
 ## Certificates
 ### Description
