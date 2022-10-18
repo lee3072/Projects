@@ -23,24 +23,31 @@ recent and field related courseworks in university
 
 | Overall GPA | CS GPA |
 |:-----------:|:------:|
-| 3.53        | 3.7    |
+| 3.49        | 3.65   |
 
-| Class Name                             | Semester & Year | Grade |
-|----------------------------------------|-----------------|:-----:|
-|	Epics: Service-Learning Design Program | 2019 Spring     | A+    |
-|	CS490: iOS Development Course 				 | 2019 Spring		 | A+    |
-|	CS250: Computer Architecture					 | 2019 Fall		   | A-    |
-|	CS251: Data Structures and Algorithms	 | 2019 Fall  		 | A     |
-|	CS252: Systems Programming					   | 2020 Spring	   | A+    |
-|	CS307: Software Engineering					   | 2020 Fall  	   | A     |
-|	CS390: Neural Image Processing			   | 2020 Fall  	   | A+    |
-|	CS390: Advance Neural Projects			   | 2021 Spring	   | A     |
-|	CS408: Software Testing   					   | 2021 Spring	   | A-    |
-
+| Class Name                                  | Semester & Year | Grade |
+|---------------------------------------------|-----------------|:-----:|
+|	Epics: Service-Learning Design Program      | 2019 Spring     | A+    |
+|	CS490: iOS Development Course 				      | 2019 Spring		 | A+    |
+|	CS250: Computer Architecture					      | 2019 Fall		   | A-    |
+|	CS251: Data Structures and Algorithms	      | 2019 Fall  		 | A     |
+|	CS252: Systems Programming					        | 2020 Spring	   | A+    |
+|	CS307: Software Engineering					        | 2020 Fall  	   | A     |
+|	CS390: Neural Image Processing			        | 2020 Fall  	   | A+    |
+|	CS390: Advance Neural Projects			        | 2021 Spring	   | A     |
+|	CS408: Software Testing   					        | 2021 Spring	   | A-    |
+|	CS354: Operating Systems   					        | 2021 Fall	     | B+    |
+|	CS373: Data Mining & Machine Learning       | 2021 Fall	   | B-    |
+|	CS407: Software Engineering Senior Project  | 2022 Spring	   | A+    |
+|	CS490: Introduction to VR/AR				        | 2022 Spring	   | A+    |
 
 ## Course-Projects
 ### Description
 Any Projects that are related to major course work
+* <a href=https://github.com/KawaiR/Snowdrop> Snowdrop (Purdue Univeristy, CS 407: Software Engineering Senior Project) </a>
+  - <a href=https://www.cs.purdue.edu/stories/senior-capstone-software-engineering-2022.html>Best CS407 Project Story News </a>
+  - Plant Care Mobile Application
+  - Language Used: [React Native, Java, MySQL]
 * <a href=https://github.com/lee3072/Custom-Shell-Project> Custom-Shell-Project (Purdue Univeristy, CS 252: Systems Programming) </a>
   - Custom Terminal Shell like bash
   - Language Used: [Lex, Yacc, C]
