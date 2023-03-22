@@ -3,10 +3,10 @@
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Publication](#Publication)
-3. [Coursework](#Coursework)
-4. [Course Projects](#Course-Projects)
-5. [Side Projects](#Side-Projects)
-6. [Certificates](#Certificates)
+3. [Certificates](#Certificates)
+4. [Coursework](#Coursework)
+5. [Course Projects](#Course-Projects)
+6. [Side Projects](#Side-Projects)
 7. [Additional Events](#Additional-Events)
 
 
@@ -24,6 +24,20 @@ conference and journal papers
 * <a href="https://doi.org/10.1109/ISMAR55827.2022.00017"> Complex Virtual Environments on Thin VR Systems </a>
   -	This paper describes a method for reducing rendering load such that complex virtual environments (VEs) can be deployed on “thin” VR systems with limited rendering power. The method partitions the VE into four regions: a near region, an intermediate region, a stationary far region, and a dynamic far region. The stationary far region is replaced with an environment map, which brings a substantial rendering load reduction. The other three regions are rendered from geometry: the near region is rendered from the user viewpoint, the dynamic far geometry is rendered from the center of the environment map, and the intermediate region is rendered with a morph that switches viewpoint gradually from the user viewpoint to the center of the environment map. The intermediate region connects the near and far regions seamlessly. Furthermore, the environment map is enhanced with per pixel range which allows depth compositing the dynamic and stationary far geometry. An IRB approved user study (N = 22) found significant advantages for our method over conventional near-far partitioning.
   -	[Voicu Popescu; Seung Heon Lee; Andrew Shinyoung Choi; Sonia Fahmy]
+
+## Certificates
+### Description
+Any Computer Science Certificates earned from valid sources
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_1/Edx%20Class/Microsoft%20DAT208x%20Certificate%20_%20edX.pdf> Microsoft Data208x: Introduction to Python for Data Science (edX) </a>
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_2/CodePath/iOSSpring2019_wsigUni138.pdf> CodePath iOS Development </a>
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_3/Edx%20Class/IBM%20CAD220EN%20Certificate%20%7C%20edX.pdf> IBM CAD220EN: Developing Cloud Applications with Node.js and React (edX) </a>
+  - <a href=https://courses.edx.org/certificates/f64e089f90ff4ed59ad70531b66b77bc> Official Link </a>
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_48342315.pdf> Human Research: Group 2.Social Behavioral Research Investigators and Key Personnel (CITI Training)</a>
+  - <a href=https://www.citiprogram.org/verify/?w5ef754b7-8958-4928-a1b9-5aa6c622b05e-48342315> Official Link </a>
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_53213727.pdf> Biomedical Human Subjects (CITI Training)</a>
+  - <a href=https://www.citiprogram.org/verify/?w67f83647-7e57-4062-b37e-9f680109f6cc-53213727> Official Link </a>
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_53213726.pdf> Social-Behavioral Human Subjects (CITI Training)</a>
+  - <a href=https://www.citiprogram.org/verify/?wf2fc2c4f-22ba-4529-8cdf-bf640f7d4973-53213726> Official Link </a>  
 
 ## Coursework
 ### Description
@@ -88,20 +102,7 @@ Any Non Academical Projects
   - <a href=https://github.com/lee3072/boilermake2022> github link
   
 
-## Certificates
-### Description
-Any Computer Science Certificates earned from valid sources
-* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_1/Edx%20Class/Microsoft%20DAT208x%20Certificate%20_%20edX.pdf> Microsoft Data208x: Introduction to Python for Data Science (edX) </a>
-* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_2/CodePath/iOSSpring2019_wsigUni138.pdf> CodePath iOS Development </a>
-* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_3/Edx%20Class/IBM%20CAD220EN%20Certificate%20%7C%20edX.pdf> IBM CAD220EN: Developing Cloud Applications with Node.js and React (edX) </a>
-  - <a href=https://courses.edx.org/certificates/f64e089f90ff4ed59ad70531b66b77bc> Official Link </a>
-* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_48342315.pdf> Human Research: Group 2.Social Behavioral Research Investigators and Key Personnel (CITI Training)</a>
-  - <a href=https://www.citiprogram.org/verify/?w5ef754b7-8958-4928-a1b9-5aa6c622b05e-48342315> Official Link </a>
-* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_53213727.pdf> Biomedical Human Subjects (CITI Training)</a>
-  - <a href=https://www.citiprogram.org/verify/?w67f83647-7e57-4062-b37e-9f680109f6cc-53213727> Official Link </a>
-* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_53213726.pdf> Social-Behavioral Human Subjects (CITI Training)</a>
-  - <a href=https://www.citiprogram.org/verify/?wf2fc2c4f-22ba-4529-8cdf-bf640f7d4973-53213726> Official Link </a>  
-  
+
 
 ## Additional-Events
 ### Description
