@@ -92,7 +92,7 @@ Any Computer Science Certificates earned from valid sources
 
 ## Additional-Events
 ### Description
-Events for practice
+Events for participation
 * <a href="https://devpost.com/software/class_manager"> Hello World - 24 Hour Freshman Only Hackathon</a>
   - First Year Participant, Second Year Mentor
 * <a href="https://devpost.com/software/projects-2e8buc">	Boiler Make VI - Purdue Hackathon </a>
