@@ -97,6 +97,3 @@ Non Major Individual Projects and Events for practice
   - First Year Participant, Second Year Mentor
 * <a href="https://devpost.com/software/projects-2e8buc">	Boiler Make VI - Purdue Hackathon </a>
   - Second Year Participant
-* <a href="https://play.google.com/store/apps/details?id=com.developer.iseungheon.unitconverter"> [DEPRECATED] Unit Converter </a>
-  - android project for scientific unit converter
-
