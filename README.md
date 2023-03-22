@@ -2,11 +2,12 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Coursework](#Coursework)
-1. [Course Projects](#Course-Projects)
-1. [Side Projects](#Side-Projects)
-1. [Certificates](#Certificates)
-1. [Additional Events](#Additional-Events)
+2. [Publication](#Publication)
+3. [Coursework](#Coursework)
+4. [Course Projects](#Course-Projects)
+5. [Side Projects](#Side-Projects)
+6. [Certificates](#Certificates)
+7. [Additional Events](#Additional-Events)
 
 
 
@@ -16,6 +17,13 @@ this is repository for:
 - storing my individual projects during Purdue CS Bachelor's Degree Program
 - storing links to contributed projects
 - storing my major related certificates
+
+## Publication
+### Description
+conference and journal papers
+* <a href="https://doi.org/10.1109/ISMAR55827.2022.00017"> Complex Virtual Environments on Thin VR Systems </a>
+  -	This paper describes a method for reducing rendering load such that complex virtual environments (VEs) can be deployed on “thin” VR systems with limited rendering power. The method partitions the VE into four regions: a near region, an intermediate region, a stationary far region, and a dynamic far region. The stationary far region is replaced with an environment map, which brings a substantial rendering load reduction. The other three regions are rendered from geometry: the near region is rendered from the user viewpoint, the dynamic far geometry is rendered from the center of the environment map, and the intermediate region is rendered with a morph that switches viewpoint gradually from the user viewpoint to the center of the environment map. The intermediate region connects the near and far regions seamlessly. Furthermore, the environment map is enhanced with per pixel range which allows depth compositing the dynamic and stationary far geometry. An IRB approved user study (N = 22) found significant advantages for our method over conventional near-far partitioning.
+  -	[Voicu Popescu; Seung Heon Lee; Andrew Shinyoung Choi; Sonia Fahmy]
 
 ## Coursework
 ### Description
