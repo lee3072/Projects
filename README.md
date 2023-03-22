@@ -14,9 +14,11 @@
 ## Overview
 ### Description
 this is repository for:
+- storing my publications
+- storing my major related certificates
 - storing my individual projects during Purdue CS Bachelor's Degree Program
 - storing links to contributed projects
-- storing my major related certificates
+
 
 ## Publication
 ### Description
