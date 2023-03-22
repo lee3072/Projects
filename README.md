@@ -89,6 +89,11 @@ Any Computer Science Certificates earned from valid sources
   - <a href=https://courses.edx.org/certificates/f64e089f90ff4ed59ad70531b66b77bc> Official Link </a>
 * <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_48342315.pdf> Human Research: Group 2.Social Behavioral Research Investigators and Key Personnel (CITI Training)</a>
   - <a href=https://www.citiprogram.org/verify/?w5ef754b7-8958-4928-a1b9-5aa6c622b05e-48342315> Official Link </a>
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_53213726.pdf> Biomedical Human Subjects (CITI Training)</a>
+  - <a href=https://www.citiprogram.org/verify/?w67f83647-7e57-4062-b37e-9f680109f6cc-53213727> Official Link </a>
+* <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_53213727.pdf> Social-Behavioral Human Subjects (CITI Training)</a>
+  - <a href=https://www.citiprogram.org/verify/?wf2fc2c4f-22ba-4529-8cdf-bf640f7d4973-53213726> Official Link </a>  
+  
 
 ## Additional-Events
 ### Description
