@@ -6,7 +6,7 @@
 1. [Course Projects](#Course-Projects)
 1. [Side Projects](#Side-Projects)
 1. [Certificates](#Certificates)
-1. [Additional Projects](#Additional-Projects-Events)
+1. [Additional Events](#Additional-Events)
 
 
 
@@ -90,9 +90,9 @@ Any Computer Science Certificates earned from valid sources
 * <a href=https://github.com/lee3072/Projects/blob/master/Certificate_4/CITI%20Training/citiCompletionCertificate_11100531_48342315.pdf> Human Research: Group 2.Social Behavioral Research Investigators and Key Personnel (CITI Training)</a>
   - <a href=https://www.citiprogram.org/verify/?w5ef754b7-8958-4928-a1b9-5aa6c622b05e-48342315> Official Link </a>
 
-## Additional-Projects-Events
+## Additional-Events
 ### Description
-Non Major Individual Projects and Events for practice
+Events for practice
 * <a href="https://devpost.com/software/class_manager"> Hello World - 24 Hour Freshman Only Hackathon</a>
   - First Year Participant, Second Year Mentor
 * <a href="https://devpost.com/software/projects-2e8buc">	Boiler Make VI - Purdue Hackathon </a>
